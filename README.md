@@ -12,8 +12,13 @@ The Wikipedia articles about language families in [German](https://de.wikipedia.
 
 It might be possible to create a SVG or PDF with python and the [GeoPandas](https://geopandas.org/en/stable/) package (on [Github](https://github.com/geopandas/geopandas)). Relevant maps in the SGX format might be available at Kaggle.
 
-- https://medium.com/analytics-vidhya/making-colored-country-maps-with-real-data-using-matplotlib-and-geopandas-2d10687ca7ac
-- https://medium.com/@protobioengineering/how-to-make-colored-country-maps-in-python-tldr-edition-d58147105a8d
+- [Making colored country maps with real data using matplotlip and Geopandas](https://medium.com/analytics-vidhya/making-colored-country-maps-with-real-data-using-matplotlib-and-geopandas-2d10687ca7ac)
+- [How to make colored country maps in Python TLDR edition](https://medium.com/@protobioengineering/how-to-make-colored-country-maps-in-python-tldr-edition-d58147105a8d)
+- [Choropleth Map Tutorial on Github](https://github.com/aero-man/choropleth-map-tutorial)
+- https://koordinates.com/layer/3824-nz-police-district-boundaries/
+- [Data model (GIS)](https://en.wikipedia.org/wiki/Data_model_(GIS))
+- [Choropleth map](https://en.wikipedia.org/wiki/Choropleth_map)
+- [Shapefile](https://en.wikipedia.org/wiki/Shapefile)
 
 ## History
 
